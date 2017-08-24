@@ -9,6 +9,8 @@ Implementation of linear regression
 2. matplotlib
   * `pip install matplotlib` (pip standalone installation)
   * `conda install matplotlib` (anaconda installtion)
+  
+### Refer to linear-regression-rc to implement linear Regession from scratch.
 
 ### **Step:1**
 * Import data
