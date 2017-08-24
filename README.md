@@ -10,7 +10,7 @@ Implementation of linear regression
   * `pip install matplotlib` (pip standalone installation)
   * `conda install matplotlib` (anaconda installtion)
   
-### Refer to [linear-regression-rc](https://github.com/sanket-k/Linear-Regression/blob/master/linear-regression-rc.html) to implement linear Regession from scratch.
+### Refer to [linear-regression-rc](https://github.com/sanket-k/Linear-Regression/blob/master/linear-regression-rc.ipynb) to implement linear Regession from scratch.
 
 ### **Step:1**
 * Import data
